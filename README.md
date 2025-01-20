@@ -4,10 +4,10 @@ This Flutter app displays a list of products in a grid view fetched from [Fake S
 
 ## Screenshots
 
-![Screenshot1](assets/images)
-![Screenshot2](assets/images))
-![Screenshot3](assets/images)
-![Screenshot4](assets/images))
+![product_list.PNG](assets/images/product_list.PNG)
+![product_list2.PNG](assets/images/product_list2.PNG)
+![product_list.PNG](assets/images/product_list3.PNG)
+![product_list.PNG](assets/images/product_list4.PNG)
 ## Features
 
 - Fetch products from API
